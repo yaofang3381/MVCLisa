@@ -213,6 +213,7 @@
     <Content Include="Views\Users\Index.cshtml" />
     <Content Include="Views\Role.cshtml" />
     <Content Include="Views\Role\List.cshtml" />
+    <Content Include="Views\View.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
