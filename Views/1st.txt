@@ -2,6 +2,12 @@
 789
 hello world.
 hello Lisa
+third change1
 second change
+<<<<<<< HEAD
 third change
 fifth change
+=======
+fourth change
+
+>>>>>>> 0d1bc39ac66c401c2a3d070f05a60b91bbf233a4
