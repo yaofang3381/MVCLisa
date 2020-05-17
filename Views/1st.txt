@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-dgfgs
 lisa 222222
-gdh
-=======
 lisa2 txt
->>>>>>> remotes/origin/master
+
