@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 my change later!
-=======
 other change firstly.
->>>>>>> f52a6df11279d97e80902f2ce490f70daa8e4768
-
 test
